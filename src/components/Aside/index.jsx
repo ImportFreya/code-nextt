@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import styles from './Aside.module.css';
+import styles from './aside.module.css';
 //aaaaaa
 
 import logo from './logo.png';
